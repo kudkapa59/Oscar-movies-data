@@ -1,0 +1,2 @@
+# Oscar-movies-data
+ The idea is to take each movie from Wikipedia page https://en.wikipedia.org/wiki/List_of_Academy_Award-winning_films and to store each movie's table(which is under its poster). The table contains each movie's actors, directors, running time, budget, etc. Next work includes reformatting some data and getting IMDB score for each movie. Credits to https://www.youtube.com/watch?v=Ewgy-G9cmbg, where I found this task for the Disney movie dataset.
